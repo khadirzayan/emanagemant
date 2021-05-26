@@ -1,6 +1,6 @@
 # emanagemant
 ![BFH Banner](https://trello-attachments.s3.amazonaws.com/542e9c6316504d5797afbfb9/542e9c6316504d5797afbfc1/39dee8d993841943b5723510ce663233/Frame_19.png)
-# Project Name
+# ZFS
 This Event Management System Project in Django created using Python Django Framework on the backend and HTML, CSS, and JavaScript on the frontend. It has user authentication features for login/registration, as well as a user dashboard for displaying and registering for events.
 A Events Management System is a full-stack Django web application that offers a clean, descriptive, and interactive user interface for viewing and registering for sporting events. It has responsive pages and tabs for viewing, handling, and enrolling in various sports events.
 ## Team members
@@ -9,7 +9,7 @@ A Events Management System is a full-stack Django web application that offers a 
 ## Team Id
 BFH/reciqm2nFZ4bdrtaE/2021
 ## Link to product walkthrough
-[link to video]
+[https://youtu.be/GRxEiR-X3bY]
 ## How it Works ?
 1. Explaining the working of project
 2. Embed video of project demo
